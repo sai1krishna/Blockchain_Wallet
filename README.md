@@ -18,7 +18,6 @@ having  properties
 
 SYSTEM REQUIREMENTS:
 Python
-Data Mining
 Flask Microframe
 JSON format to store data
 Visual Studio Code
