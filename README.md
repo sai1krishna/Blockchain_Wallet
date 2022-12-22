@@ -49,5 +49,6 @@ o   Printable.py
 o   Verification.py
 
 Please open the below link for further explaination.
+Google Docs:
 https://docs.google.com/document/d/1lDYKwBUlm6VkEApCmw_4BrseRUBiLWxFhlQciJslxls/edit
 
